@@ -6,3 +6,6 @@ You just want to start developing your usual Angular website with a Spring JPA R
 
 ## Run
     mvn spring-boot:run
+
+## Downloads
+* [OpenJDK 11](https://jdk.java.net/java-se-ri/11)
